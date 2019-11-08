@@ -6,3 +6,5 @@ Para poder realizar la ejecucion correcta del proyecto se debe descargar y reali
 Luego de ejecutado se podra desplegar y ser consultado desde el link por defecto de spring-boot.
 
 si se desea otra forma de poder ejecutarlo seria por medio de `CMD` con la instruccion `java -jar nombreArtefacto.jar` el cual esta ubicado en la carpeta `divisa/target/divisa-0.0.1-SNAPSHOT.java`
+
+Forma alternativa de poder detener ejecucion de proyecto usando `CMD` - `netstat -ano | find "8080"` y `Taskkill /F /IM XXXXX`
