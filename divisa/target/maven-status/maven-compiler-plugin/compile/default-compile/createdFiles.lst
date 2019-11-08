@@ -1,0 +1,11 @@
+com\nerioindriago\model\entitys\Divisa.class
+com\nerioindriago\model\entitys\TasaHistorica.class
+com\nerioindriago\model\service\DivisaService.class
+com\nerioindriago\model\dao\IDivisaDao.class
+com\nerioindriago\DivisaApplication.class
+com\nerioindriago\model\dao\ITasaHistoricaDao.class
+com\nerioindriago\model\service\IDivisaService.class
+com\nerioindriago\rest\ApiDivisas.class
+com\nerioindriago\rest\ApiTasaHistorica.class
+com\nerioindriago\model\service\TasaHistoricaService.class
+com\nerioindriago\model\service\ITasaHistoricaService.class

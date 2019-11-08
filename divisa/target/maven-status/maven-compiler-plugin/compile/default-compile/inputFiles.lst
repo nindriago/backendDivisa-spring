@@ -1,0 +1,11 @@
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\rest\ApiTasaHistorica.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\service\IDivisaService.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\rest\ApiDivisas.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\DivisaApplication.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\dao\ITasaHistoricaDao.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\entitys\Divisa.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\service\DivisaService.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\service\ITasaHistoricaService.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\dao\IDivisaDao.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\entitys\TasaHistorica.java
+D:\workspace-sts\divisa\src\main\java\com\nerioindriago\model\service\TasaHistoricaService.java
